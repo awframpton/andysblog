@@ -1,0 +1,14 @@
+title = "Andy's Blog"
+baseURL = "http://andyco.org"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+resourceDir = "../resources"
+
+sectionPagesMenu = "main"
+enableRobotsTXT = true
+
+[ananke.social.follow]
+new_window_icon = true
+networks = ["x-twitter"]
+
+[params.ananke.social.x-twitter]
+username = "awframpton"

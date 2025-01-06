@@ -1,0 +1,10 @@
+baseURL = 'https://andysblog.org/'
+languageCode = 'en-us'
+title = 'andys blog'
+theme = 'ananke'
+
+[params.ananke.social.follow]
+networks = ["x-twitter"]
+
+[params.ananke.social.x-twitter]
+username = "awframpton"
