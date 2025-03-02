@@ -2,6 +2,10 @@ baseURL = 'https://andysblog.org/'
 languageCode = 'en-us'
 title = 'andys blog'
 theme = 'ananke'
+sectionPagesMenu = "main"
+
+[pagination]
+pagerSize = 3
 
 [params.ananke.social.follow]
 networks = ["x-twitter"]
